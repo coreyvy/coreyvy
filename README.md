@@ -1,4 +1,4 @@
-![image alt]([image_url](https://github.com/coreyvy/coreyvy/blob/4f28af131ac194e270275af8ce283eb1338d65cc/image_2025-12-09_170156074.png))
+[image alt]([image_url](https://github.com/coreyvy/coreyvy/blob/d3096ecb61c962397896f2299fbfe7debd281e06/image_2025-12-09_170156074.png))
 
 <!--
 **coreyvy/coreyvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
